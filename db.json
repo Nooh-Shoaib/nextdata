@@ -1,180 +1,54 @@
-{
-  "data": [
-    {
-      "slug": "products-all",
-      "id": "products-all",
-      "allProductImages": [
-        {
-          "slug": "CBD Lollipop Boxes",
-          "productTitle": "CBD Lollipop Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1602287217/cbd-lollipop-boxes.png"
-        },
-        {
-          "slug": "CBD Gum Boxes",
-          "productTitle": "CBD Gum Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632877609CBD-Gum-Boxes-SirePrinting-02.png"
-        },
-        {
-          "slug": "CBD Edibles Boxes",
-          "productTitle": "CBD Edibles Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640142509CBD%20Edible%20Product%20Packaging%20Boxes%20Sireprinting%2001.png"
-        },
-        {
-          "slug": "CBD Pet Products Boxes",
-          "productTitle": "CBD Pet Products Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627775703CBD-pet-tincture-boxes-Sire-Printing.png"
-        },
-        {
-          "slug": "CBD Sleeves Packaging",
-          "productTitle": "CBD Sleeves Packaging",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632927910CBD-Sleeves-Packaging-Sire-Printing-01.png"
-        },
-        {
-          "slug": "Custom CBD Salve Boxes",
-          "productTitle": "Custom CBD Salve Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878086CBD-Salve-Boxes-Sire-Printing-04.png"
-        },
-        {
-          "slug": "CBD Beard Oil Boxes",
-          "productTitle": "CBD Beard Oil Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632877371CBD%20beard%20Oil%20Boxes%20Sire%20Printing%2002.png"
-        },
-        {
-          "slug": "CBD Chocolate Boxes",
-          "productTitle": "CBD Chocolate Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640139160CBD%20Chocolate%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "CBD Supplement Boxes",
-          "productTitle": "CBD Supplement Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954809CBD-Supplement-Boxes-Sire-Printing-01.png"
-        },
-        {
-          "slug": "CBD Dab Wax Boxes",
-          "productTitle": "CBD Dab Wax Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640141713CBD%20Dab%20Wax%20Packaging%20Boxes%20Sireprinting%2001.png"
-        },
-        {
-          "slug": "CBD Serum Boxes",
-          "productTitle": "CBD Serum Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627774764CBD-Serum-Boxes-Sire-Printing-01.png"
-        },
-        {
-          "slug": "Cannabis Flower Boxes",
-          "productTitle": "Cannabis Flower Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632876553Cannabis-Flower-Boxes-Sire-Printing-03.png"
-        },
-        {
-          "slug": "Custom Hemp Flour Boxes",
-          "productTitle": "Custom Hemp Flour Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640218601Hemp%20Flour%20Packaging%20Boxes%20SirePrinting%2001.png"
-        },
-        {
-          "slug": "Hemp Candle Boxes",
-          "productTitle": "Hemp Candle Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632876405Hemp%20Candle%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "Custom Hemp Cereal Boxes",
-          "productTitle": "Custom Hemp Cereal Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640207992Hemp%20Cereal%20Packaging%20Boxes%20Sire%20Printing%2003.png"
-        },
-        {
-          "slug": "Hemp Cookie Boxes",
-          "productTitle": "Hemp Cookie Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640217782Hemp%20Cookie%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "Hemp Protein Bar Boxes",
-          "productTitle": "Hemp Protein Bar Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640219681Hemp%20Protien%20Bar%20Display%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "Vape Battery Charger Boxes",
-          "productTitle": "Vape Battery Charger Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640222592Vape%20Charger%20Packaging%20SirePrinting%2001.png"
-        },
-        {
-          "slug": "Die Cut CBD Boxes",
-          "productTitle": "Die Cut CBD Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640207162DIe%20Cut%20CBD%20Boxes%20SirePrinting%2001.png"
-        },
-        {
-          "slug": "tuck-and-display-box",
-          "productTitle": "Tuck and Display Box",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600729288/Tuck%20and%20Display%20Box.jpg"
-        },
-        {
-          "slug": "Raw CBD Oil Boxes",
-          "productTitle": "Raw CBD Oil Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640226703Raw%20CBD%20Oil%20Box%20Packaging%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "Bar Soap Boxes",
-          "productTitle": "Bar Soap Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628210686Bar-Soap-Boxes-Sire-Printing-06.png"
-        },
-        {
-          "slug": "Black Soap Boxes",
-          "productTitle": "Black Soap Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874578black-soap-boxes-sireprinting-06.png"
-        },
-        {
-          "slug": "Christmas Gift Boxes",
-          "productTitle": "Christmas Gift Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935470Christmas-Gift-Boxes-Sire-Printing.png"
-        },
-        {
-          "slug": "Christmas Cake Boxes",
-          "productTitle": "Christmas Cake Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632932853Christmas-Cake-Boxes-Sire-Printing.png"
-        },
-        {
-          "slug": "Christmas Apple Boxes",
-          "productTitle": "Christmas Apple Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632932346Christmas-Apple-Boxes-Sire-Printing-01.png"
-        },
-        {
-          "slug": "Christmas Gable Boxes",
-          "productTitle": "Christmas Gable Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935353Christmas-Gable-Boxes-Sire-Printing-06.png"
-        },
-        {
-          "slug": "Christmas Favor Boxes",
-          "productTitle": "Christmas Favor Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935227Christmas-Favor-Boxes-Sire-Printing-03.png"
-        },
-        {
-          "slug": "White Soap Boxes",
-          "productTitle": "White Soap Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628213163White-Soap-Boxes-Sire-Printing.png"
-        },
-        {
-          "slug": "Christmas Ornament Boxes",
-          "productTitle": "Christmas Ornament Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935618Christmas%20Ornament%20Boxes%2007.png"
-        },
-        {
-          "slug": "Christmas Treat Boxes",
-          "productTitle": "Christmas Treat Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935749Christmas-Treat--Boxes-SirePrintig01.png"
-        },
-        {
-          "slug": "hand-sanitizer-boxes",
-          "productTitle": "Hand Sanitizer Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600983839/Hand%20Sanitizer%20Boxes.png"
-        },
-        {
-          "slug": "aroma-boxes",
-          "productTitle": "Aroma Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600986569/Aroma%20Boxes.png"
-        },
-        {
-          "slug": "apparel-boxes",
-          "productTitle": "Apparel Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600988450/Apparel%20Boxes.png"
-        }
-      ]
-    }
-  ]
-}
+{"data": [
+{"slug": "products-all","id": "products-all", 
+"allProductImages": [
+{"slug": "cbd-lollipop-boxes","productTitle": "CBD Lollipop Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1602287217/cbd-lollipop-boxes.png"},
+{"slug": "cbd-gum-boxes","productTitle": "CBD Gum Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632877609CBD-Gum-Boxes-SirePrinting-02.png"},
+{"slug": "cbd-edibles-boxes","productTitle": "CBD Edibles Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640142509CBD%20Edible%20Product%20Packaging%20Boxes%20Sireprinting%2001.png"},
+{"slug": "cbd-pet-products-boxes","productTitle": "CBD Pet Products Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627775703CBD-pet-tincture-boxes-Sire-Printing.png"},
+{"slug": "cbd-sleeves-packaging","productTitle": "CBD Sleeves Packaging","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632927910CBD-Sleeves-Packaging-Sire-Printing-01.png"},
+{"slug": "custom-cbd-salve-boxes","productTitle": "Custom CBD Salve Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878086CBD-Salve-Boxes-Sire-Printing-04.png"},
+{"slug": "cbd-beard-bil-boxes","productTitle": "CBD Beard Oil Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632877371CBD%20beard%20Oil%20Boxes%20Sire%20Printing%2002.png"},
+{"slug": "cbd-chocolate-boxes","productTitle": "CBD Chocolate Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640139160CBD%20Chocolate%20Boxes%20Sire%20Printing%2001.png"},
+{"slug": "cbd-supplement-boxes","productTitle": "CBD Supplement Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954809CBD-Supplement-Boxes-Sire-Printing-01.png"},
+{"slug": "cbd-dab-wax-boxes","productTitle": "CBD Dab Wax Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640141713CBD%20Dab%20Wax%20Packaging%20Boxes%20Sireprinting%2001.png"},
+{"slug": "cbd-serum-boxes","productTitle": "CBD Serum Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627774764CBD-Serum-Boxes-Sire-Printing-01.png"},
+{"slug": "cannabis-flower-boxes","productTitle": "Cannabis Flower Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632876553Cannabis-Flower-Boxes-Sire-Printing-03.png"},
+{"slug": "custom-hemp-flour-boxes","productTitle": "Custom Hemp Flour Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640218601Hemp%20Flour%20Packaging%20Boxes%20SirePrinting%2001.png"},
+{"slug": "hemp-candle-boxes","productTitle": "Hemp Candle Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632876405Hemp%20Candle%20Boxes%20Sire%20Printing%2001.png"},
+{"slug": "custom-hemp-cereal-boxes","productTitle": "Custom Hemp Cereal Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640207992Hemp%20Cereal%20Packaging%20Boxes%20Sire%20Printing%2003.png"},
+{"slug": "hemp-cookie-boxes","productTitle": "Hemp Cookie Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640217782Hemp%20Cookie%20Boxes%20Sire%20Printing%2001.png"},
+{"slug": "hemp-protein-bar-boxes","productTitle": "Hemp Protein Bar Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640219681Hemp%20Protien%20Bar%20Display%20Boxes%20Sire%20Printing%2001.png"},
+{"slug": "vape-battery-charger-boxes","productTitle": "Vape Battery Charger Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640222592Vape%20Charger%20Packaging%20SirePrinting%2001.png"},
+{"slug": "die-cut-cbd-boxes","productTitle": "Die Cut CBD Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640207162DIe%20Cut%20CBD%20Boxes%20SirePrinting%2001.png"},
+{"slug": "tuck-and-display-box","productTitle": "Tuck and Display Box","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600729288/Tuck%20and%20Display%20Box.jpg"},
+{"slug": "raw-cbd-oil-boxes","productTitle": "Raw CBD Oil Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640226703Raw%20CBD%20Oil%20Box%20Packaging%20Sire%20Printing%2001.png"},
+{"slug": "bar-soap-boxes","productTitle": "Bar Soap Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628210686Bar-Soap-Boxes-Sire-Printing-06.png"},
+{"slug": "black-soap-boxes","productTitle": "Black Soap Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874578black-soap-boxes-sireprinting-06.png"},
+{"slug": "christmas-gift-boxes","productTitle": "Christmas Gift Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935470Christmas-Gift-Boxes-Sire-Printing.png"},
+{"slug": "christmas-cake-boxes","productTitle": "Christmas Cake Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632932853Christmas-Cake-Boxes-Sire-Printing.png"},
+{"slug": "christmas-apple-boxes","productTitle": "Christmas Apple Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632932346Christmas-Apple-Boxes-Sire-Printing-01.png"},
+{"slug": "christmas-gable-boxes","productTitle": "Christmas Gable Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935353Christmas-Gable-Boxes-Sire-Printing-06.png"},
+{"slug": "christmas-favor-boxes","productTitle": "Christmas Favor Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935227Christmas-Favor-Boxes-Sire-Printing-03.png"},
+{"slug": "white-soap-boxes","productTitle": "White Soap Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628213163White-Soap-Boxes-Sire-Printing.png"},
+{"slug": "christmas-ornament-boxes","productTitle": "Christmas Ornament Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935618Christmas%20Ornament%20Boxes%2007.png"},
+{"slug": "christmas-treat-boxes","productTitle": "Christmas Treat Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632935749Christmas-Treat--Boxes-SirePrintig01.png"},
+{"slug": "christmas-cookie-boxes","productTitle": "Christmas Cookie Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632933414Christmas-Cookie-Boxes-Sire-Printing-01.png"},
+{"slug": "christmas-cupcake-boxes","productTitle": "Christmas Cupcake Boxes","productImage": "httpshttps://s3.amazonaws.com/sireprinting.com/products/1632935140Christmas-Cupcake-Boxes-Sire-Printing-01.png"},
+{"slug": "bakery-boxes","productTitle": "Bakery Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632873761Bakery-Boxes-Sire-Printing-02.png"},
+{"slug": "burger-boxes","productTitle": "Burger Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874949Burger-Boxes-Sire-Printing-01.png"},
+{"slug": "cereal-boxes","productTitle": "Cereal Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1645126269Cereal-Boxes-Sire-Printing-01.png"},
+{"slug": "cookie-boxes","productTitle": "Cookie Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1606778914/cookie%20boxes.png"},
+{"slug": "crepe-cone-holders","productTitle": "Crepe Cone Holders","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941376Paperboard-Crepe-Cones-Sire-Printing-02.png"},
+{"slug": "cupcake-boxes","productTitle": "Cupcake Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941473Cup-Cake-Boxes-Sire-Printing-01.png"},
+{"slug": "donut-boxes","productTitle": "Donut Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632950144Donut-Boxes-Sire-Printing.png"},
+{"slug": "food-packaging-sleeves","productTitle": "Food Packaging Sleeves","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951920Food-Packaging-Sleeves%20Sire%20Printing%2001.png"},
+{"slug": "small-rigid-boxes","productTitle": "Small Rigid Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632959428small-rigid-boxes-sireprinting-01.png"},
+{"slug": "satin-lined-boxes","productTitle": "Satin Lined Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632959323Satin-Lined-Rigid-Boxes-Sire-Printing.png"},
+{"slug": "rigid-cigarette-boxes","productTitle": "Rigid Cigarette Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612919456/rigid-cigarette-boxes.png"},
+{"slug": "luxury-cigar-boxes","productTitle": "Luxury Cigar Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"},
+{"slug": "beard-balm-boxes","productTitle": "Beard Balm Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1608771525/Beard%20Balm%20Boxes.png"},
+{"slug": "body-oil-boxes","productTitle": "Body Oil Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1608773455/Body%20Oil%20Boxes.png"},
+{"slug": "cosmetic-sleeves","productTitle": "Cosmetic Sleeves","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632940793Cosmetic-Sleeves-Packaging-Sire-Printing-01.png"},
+{"slug": "eyelash-glue-boxes","productTitle": "Eyelash Glue Boxes","productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1608774531/Eyelash%20Glue%20Boxes.png"},
+{"slug": "face-wash-boxes","productTitle": "Face Wash Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951787face-wash-box-packaging-sire-printing-01.png"},
+{"slug": "face-wash-bar-boxes","productTitle": "Face Wash Bar Boxes","productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628201847Face%20Wash%20Bar%20Boxes%20Sire%20Printing%2001.png"}]}]}
